@@ -2,6 +2,15 @@
 
 다큐브 [홈페이지](https://daquv.com/ko)
 
+### 🏆 주요 성과
+
+> **Spider 2.0 Text-to-SQL 벤치마크 3개 부문 1위**
+>
+> DAQUV 재직 중 달성
+> - Spider 2.0-snow: 2026년 2월 17일 기준 1위
+> - Spider 2.0-DBT: 2025년 6월 25일 기준 1위
+> - Spider 2.0-lite: 2026년 3월 9일 기준 1위
+
 ## 사용된 기술
 - Language : Python, Java 1.8, 11
 - Framwork : FastAPI, Spring 2.X
