@@ -1,6 +1,6 @@
 # 금융 AI Agent 서비스 QUVI 개발                                                                   
                                                                                                      
-  다큐브 [홈페이지](https://daquv.com/ko)
+  [DAQUV] (https://daquv.com/ko)
                                                                                                      
   ### 주요 성과                                                                                      
   
